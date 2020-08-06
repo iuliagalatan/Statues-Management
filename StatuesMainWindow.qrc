@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/StatuesMainWindow"/>
+    <qresource prefix="/icon">
+        <file>statue-icon.png</file>
+    </qresource>
+    <qresource prefix="/photo">
+        <file>statue-icon.png</file>
+    </qresource>
+</RCC>

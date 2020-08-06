@@ -1,0 +1,4 @@
+Hercule, granite, 300, man
+Decebal, granit, 1500, man
+Zeus, granite, 300, man
+Artemis, marbre, 500, woman
