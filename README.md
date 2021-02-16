@@ -6,4 +6,4 @@ The application manages the statues of a city.
 A statue is described as having : PowerWordName, Material, Corporeal Form, Age.
 
 There are 2 modes: Mode A. Statues can be modified (deleted, filtered, added, updated), added to mylist.
-                   Mode B. Client Mode. Statues can only be viewed, mylist-opened with an external application. 
+                   Mode B. Client Mode. Statues can only be viewed, mylist-opened with an external window. 
